@@ -1,0 +1,10 @@
+S:\Main GTA V Mod Menu & Menu Base Source Code\GTA V Working Auto_Installer_\Crespo.csproj\bin\Release\Crespo.exe
+S:\Main GTA V Mod Menu & Menu Base Source Code\GTA V Working Auto_Installer_\Crespo.csproj\bin\Release\Crespo.pdb
+S:\Main GTA V Mod Menu & Menu Base Source Code\GTA V Working Auto_Installer_\Crespo.csproj\obj\x86\Release\Crespo.csproj.AssemblyReference.cache
+S:\Main GTA V Mod Menu & Menu Base Source Code\GTA V Working Auto_Installer_\Crespo.csproj\obj\x86\Release\Skid.Form1.resources
+S:\Main GTA V Mod Menu & Menu Base Source Code\GTA V Working Auto_Installer_\Crespo.csproj\obj\x86\Release\Skid.Form2.resources
+S:\Main GTA V Mod Menu & Menu Base Source Code\GTA V Working Auto_Installer_\Crespo.csproj\obj\x86\Release\Crespo.Properties.Resources.resources
+S:\Main GTA V Mod Menu & Menu Base Source Code\GTA V Working Auto_Installer_\Crespo.csproj\obj\x86\Release\Crespo.csproj.GenerateResource.cache
+S:\Main GTA V Mod Menu & Menu Base Source Code\GTA V Working Auto_Installer_\Crespo.csproj\obj\x86\Release\Crespo.csproj.CoreCompileInputs.cache
+S:\Main GTA V Mod Menu & Menu Base Source Code\GTA V Working Auto_Installer_\Crespo.csproj\obj\x86\Release\Crespo.exe
+S:\Main GTA V Mod Menu & Menu Base Source Code\GTA V Working Auto_Installer_\Crespo.csproj\obj\x86\Release\Crespo.pdb

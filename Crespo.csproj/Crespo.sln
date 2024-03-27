@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26020.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crespo", "Crespo.csproj", "{83AB10AA-3F08-4FAE-9A47-512FCECA88B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83AB10AA-3F08-4FAE-9A47-512FCECA88B3}.Debug|x86.ActiveCfg = Debug|x86
+		{83AB10AA-3F08-4FAE-9A47-512FCECA88B3}.Debug|x86.Build.0 = Debug|x86
+		{83AB10AA-3F08-4FAE-9A47-512FCECA88B3}.Release|x86.ActiveCfg = Release|x86
+		{83AB10AA-3F08-4FAE-9A47-512FCECA88B3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\Skillz Cortar\Desktop\Crespo.csproj\bin\Debug\Crespo.exe
+C:\Users\Skillz Cortar\Desktop\Crespo.csproj\bin\Debug\Crespo.pdb
+C:\Users\Skillz Cortar\Desktop\Crespo.csproj\obj\x86\Debug\Skid.Form1.resources
+C:\Users\Skillz Cortar\Desktop\Crespo.csproj\obj\x86\Debug\Skid.Form2.resources
+C:\Users\Skillz Cortar\Desktop\Crespo.csproj\obj\x86\Debug\Crespo.Properties.Resources.resources
+C:\Users\Skillz Cortar\Desktop\Crespo.csproj\obj\x86\Debug\Crespo.csproj.GenerateResource.cache
+C:\Users\Skillz Cortar\Desktop\Crespo.csproj\obj\x86\Debug\Crespo.csproj.CoreCompileInputs.cache
+C:\Users\Skillz Cortar\Desktop\Crespo.csproj\obj\x86\Debug\Crespo.exe
+C:\Users\Skillz Cortar\Desktop\Crespo.csproj\obj\x86\Debug\Crespo.pdb
